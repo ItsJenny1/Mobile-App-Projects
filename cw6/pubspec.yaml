@@ -1,0 +1,24 @@
+name: cw6
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.5 <4.0.0'
+
+dependencies:
+  firebase_core: ^2.27.0
+  flutter:
+    sdk: flutter
+  intl: ^0.19.0
+  cloud_firestore: ^4.12.0
+  firebase_auth: ^4.17.8
+  google_sign_in: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true

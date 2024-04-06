@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193906345429",
+    "project_id": "cw-6-860bf",
+    "storage_bucket": "cw-6-860bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193906345429:android:9d948dcbd2a0915ae5e95c",
+        "android_client_info": {
+          "package_name": "com.example.cw6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD702an8BGXTPo3lrd5krOh1RPwNydpb_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
